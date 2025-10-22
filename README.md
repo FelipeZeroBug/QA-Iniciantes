@@ -1,10 +1,6 @@
 # 🧪 QA para Iniciantes  
 ### Por **Felipe Freitas** – Analista de Qualidade de Software  
 
-Bem-vindo(a)! 👋  
-Aqui você vai encontrar **conteúdo prático e direto** pra quem quer **começar na área de QA (Quality Assurance)** ou está migrando pra tecnologia.  
-Compartilho **materiais, guias, documentações, ferramentas e automações reais** pra te ajudar a dar os primeiros passos com segurança.  
-
 ---
 
 ## 💡 O que é QA?
