@@ -1,5 +1,4 @@
 # 🧪 QA para Iniciantes  
-### Por **Felipe Freitas** – Analista de Qualidade de Software  
 
 ---
 
